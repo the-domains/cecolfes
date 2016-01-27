@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T07:00:57.778Z'
-dateModified: '2016-01-27T07:00:54.149Z'
+datePublished: '2016-01-27T07:12:53.509Z'
+dateModified: '2016-01-27T07:12:34.661Z'
 title: Virus ZIKA
 author: []
 sourcePath: _posts/2016-01-27-virus-zika.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: virus-zika/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Virus ZIKA
