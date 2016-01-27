@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T07:05:39.797Z'
-dateModified: '2016-01-27T07:05:34.727Z'
+datePublished: '2016-01-27T07:13:03.188Z'
+dateModified: '2016-01-27T07:12:22.696Z'
 title: Muestras de Semen
 author: []
 sourcePath: _posts/2016-01-27-muestras-de-semen.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: muestras-de-semen/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Muestras de Semen
