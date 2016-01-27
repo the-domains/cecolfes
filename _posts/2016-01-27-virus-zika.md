@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T07:46:32.378Z'
-dateModified: '2016-01-27T07:46:30.340Z'
+datePublished: '2016-01-27T07:51:35.213Z'
+dateModified: '2016-01-27T07:51:30.851Z'
 title: Virus ZIKA
 author: []
 sourcePath: _posts/2016-01-27-virus-zika.md
