@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T07:12:53.612Z'
-dateModified: '2016-01-27T07:12:34.661Z'
+datePublished: '2016-01-27T07:45:17.793Z'
+dateModified: '2016-01-27T07:45:15.929Z'
 title: Virus ZIKA
 author: []
 sourcePath: _posts/2016-01-27-virus-zika.md
@@ -19,20 +18,24 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: virus-zika/index.html
+_type: Article
 
 ---
-# Virus ZIKA
+# ****
 
-El**virus Zika**no deja de sorprender a los científicos. Después de comprobarse que puede provocar microcefalia en bebés en gestación y síndrome de Guillain-Barré en adultos, ahora se sospecha que también podría ser transmitido por**vía sexual**. Una característica que no se presenta en virus similares como el del dengue o chikunguña.
+## Con la nueva era Cecolfes en A.R.T. no te procupes por el ZIKA,
+ADELANTE!
 
-Dos casos reportados en la literatura médica mundial, como lo recordó ayer el periódico The New York Times, han hecho pensar a los científicos que es hora de**investigar**a fondo esta posibilidad.
+El**virus Zika **no deja de sorprender a los científicos. Después de comprobarse que puede provocar microcefalia en bebés en gestación y síndrome de Guillain-Barré en adultos, ahora se sospecha que también podría ser transmitido por **vía sexual**. Una característica que no se presenta en virus similares como el del dengue o chikunguña.
+
+Dos casos reportados en la literatura médica mundial, como lo recordó ayer el periódico The New York Times, han hecho pensar a los científicos que es hora de **investigar **a fondo esta posibilidad.
 
 De ser cierto que el virus puede transmitirse no sólo a través de la picadura del mosquito Aedes aegypti sino también a través de contacto sexual entre humanos, tendrían que replantearse algunas medidas de control y salud públicas implementadas por los gobiernos que hoy enfrentan la pandemia de Zika.
 
 Expertos de los Centros para el Control y Prevención de Enfermedades de Estados Unidos catalogaron**el riesgo como "teórico"**, pero reconocieron que se deben investigar esa sospecha.
 
-El**primer caso**en que se sustenta esta hipótesis corresponde a un hombre de Tahití, donde se presentó una epidemia de Zika en 2013\. Científicos franceses que atendieron la epidemia en la isla más grande de la Polinesia Francesa, detectaron en aquella ocasión altos niveles del virus en el semen del paciente.
+El **primer caso **en que se sustenta esta hipótesis corresponde a un hombre de Tahití, donde se presentó una epidemia de Zika en 2013\. Científicos franceses que atendieron la epidemia en la isla más grande de la Polinesia Francesa, detectaron en aquella ocasión altos niveles del virus en el semen del paciente.
 
 El**otro caso**que despertó sospechas entre los científicos ocurrió en 2008\. En aquel año el biólogo Brian Foy, de la Universidad Estatal de Colorado, y uno de sus estudiantes, Kevin C. Kobylinski, viajaron a Senegal para estudiar el mosquito que transmite la malaria. Tan pronto regresó a su hogar, Foy presentó sarpullido en la piel, dolor de cabeza y fatiga. Pocos días después, su esposa desarrolló síntomas similares.
 
