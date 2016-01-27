@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T07:56:59.080Z'
-dateModified: '2016-01-27T07:56:56.357Z'
+datePublished: '2016-01-27T08:01:29.749Z'
+dateModified: '2016-01-27T08:01:26.141Z'
 title: Virus ZIKA
 author: []
 sourcePath: _posts/2016-01-27-virus-zika.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: virus-zika/index.html
-_type: Article
+_type: Blurb
 
 ---
 # ****
@@ -51,3 +51,10 @@ Para Scott Weaver, director del Instituto de Infecciones Humanas e Inmunidad de 
 Al tiempo que se conoció esta noticia, el Instituto Nacional de Salud de Colombia emitió un nuevo boletín epidemiológico en el que estableció que en el país se han confirmado**890 casos de mujeres**en estado de embarazo contagiadas con el virus.
 
 Ante esta situación, el ministro de Salud Alejandro Gaviria anunció que iniciará en compañía de un equipo de expertos lo que ha denominado como la verdadera "Vuelta a Colombia", visitas a distintas regiones del país para informar sobre la prevención y el control de esta enfermedad.
+
+**Why Vitrification? **
+
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5248563b-87e0-4b5c-8011-68e6bf8b6cfa.jpg)
+
+The main problem when freezing cells is the formation of intracellular ice crystals during both cooling and warming, since these ice crystals have a detrimental effect on cell survival. Vitrification, the extremely rapid freezing of cellular material, makes it possible to freeze cells without forming ice crystals within the cells. The result of vitrification is a very homogenous structure, an amorphous crystalline structure, as seen with glass and obsidian, materials which fracture easily, have sharp edges and smooth surfaces (glass transition).
