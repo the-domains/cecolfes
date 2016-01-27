@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T07:51:35.232Z'
-dateModified: '2016-01-27T07:51:30.851Z'
+datePublished: '2016-01-27T07:54:00.094Z'
+dateModified: '2016-01-27T07:53:57.232Z'
 title: Virus ZIKA
 author: []
 sourcePath: _posts/2016-01-27-virus-zika.md
@@ -26,6 +26,7 @@ _type: Article
 
 ## Con la nueva era Cecolfes en A.R.T. no te procupes por el ZIKA,
 ADELANTE!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54e51702-dd85-43f8-8da1-9d659889fc3a.jpg)
 
 El**virus Zika **no deja de sorprender a los científicos. Después de comprobarse que puede provocar microcefalia en bebés en gestación y síndrome de Guillain-Barré en adultos, ahora se sospecha que también podría ser transmitido por **vía sexual**. Una característica que no se presenta en virus similares como el del dengue o chikunguña.
 
