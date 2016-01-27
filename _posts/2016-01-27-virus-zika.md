@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T07:00:57.713Z'
+datePublished: '2016-01-27T07:00:57.749Z'
 dateModified: '2016-01-27T07:00:54.149Z'
 title: Virus ZIKA
 author: []
