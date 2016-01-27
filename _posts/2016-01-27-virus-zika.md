@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T06:54:46.793Z'
-dateModified: '2016-01-27T06:54:42.030Z'
+datePublished: '2016-01-27T06:55:45.551Z'
+dateModified: '2016-01-27T06:55:42.762Z'
 title: Virus ZIKA
 author: []
 sourcePath: _posts/2016-01-27-virus-zika.md
