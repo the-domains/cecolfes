@@ -7,7 +7,7 @@ inLanguage: es
 starred: false
 keywords: []
 description: 'Evaluamos a nuestras pacientes para determinar la posible causa de su infertilidad y hacemos las recomendaciones sobre la mejor opci├│n de tratamiento personalizado. En el comienzo de cada ciclo menstrual, la gl├índula pituitaria en el cerebro libera una hormona que estimula los ovarios para madurar los fol├¡culos.'
-datePublished: '2016-02-01T16:56:46.591Z'
+datePublished: '2016-02-01T16:56:46.578Z'
 dateModified: '2016-02-01T16:56:42.942Z'
 author: []
 related: []
